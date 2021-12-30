@@ -11,7 +11,7 @@ client.once('ready', () => {
 
 client.on ('message', message => {
     if(!message.content.startsWith(prefix)) return;
-//alo da
+
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
@@ -88,6 +88,17 @@ client.on ('message', message => {
     ];
     var randomZaro = zaro[Math.floor(Math.random()*zaro.length)];
 
+    var serko = [
+        'https://ibb.co/bN0zjR3',
+        'https://ibb.co/1KJDRXF'
+    ];
+    var randomSerko = serko[Math.floor(Math.random()*serko.length)];
+
+    var ivo = [
+
+    ];
+    var randomIvo = ivo[Math.floor(Math.random()*ivo.length)];
+
     switch (command){
         case 'ivan':
             message.channel.send(randomIvan);
@@ -121,6 +132,14 @@ client.on ('message', message => {
             message.channel.send(randomDido);
             break;
 
+        case 'serko':
+            message.channel.send(randomSerko);
+            break;
+
+        case 'ivo':
+            message.channel.send(randomIvo);
+            break;
+
         default:
             message.channel.send('Kvo mi lafish ve manqk?');
             break;
@@ -128,8 +147,4 @@ client.on ('message', message => {
     }
 });
 
-client.login('OTI0NDcwNTIyNzE1MTkzMzc0.YcfCRA.PjVaJ9ss0PuoicOc3wpH2yI-WWA');
-
-//serkan
-//https://ibb.co/bN0zjR3
-//https://ibb.co/1KJDRXF
+client.login('OTI0NDcwNTIyNzE1MTkzMzc0.YcfCRA.HkJbNr1o0kSMuPIlIy5Cyx5hp2I');
