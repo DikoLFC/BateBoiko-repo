@@ -34,7 +34,9 @@ client.on ('message', message => {
         'https://ibb.co/HVrzny1',
         'https://ibb.co/mhYTp46',
         'https://ibb.co/ctvfJX6',
-        'https://ibb.co/kMyF7Jv'
+        'https://ibb.co/kMyF7Jv',
+        'https://ibb.co/bHCxnfd',
+        'https://ibb.co/hBnq2wd'
         
     ];
     var randomRangel = rangel[Math.floor(Math.random()*rangel.length)];
@@ -65,7 +67,9 @@ client.on ('message', message => {
         'https://ibb.co/4j6N8Yv',
         'https://ibb.co/g9LrqCG',
         'https://ibb.co/mDz65x0',
-        'https://ibb.co/RPHTGQS'
+        'https://ibb.co/RPHTGQS',
+        'https://ibb.co/TwpYqbg',
+        'https://ibb.co/RB720rY'
         
         
     ];
@@ -77,7 +81,9 @@ client.on ('message', message => {
        'https://ibb.co/Xyk5sym',
        'https://ibb.co/jfSPcQK',
        'https://ibb.co/yRcfPcj',
-        'https://ibb.co/n3kJ1Bx'
+        'https://ibb.co/n3kJ1Bx',
+        'https://ibb.co/rFbZD6h',
+        'https://ibb.co/KWzNqmv'
     ];
     var randomNikolay = nikolay[Math.floor(Math.random()*nikolay.length)];
 
@@ -86,7 +92,9 @@ client.on ('message', message => {
         'https://ibb.co/hgCgJg4',
         'https://ibb.co/s66b165',
         'https://ibb.co/02pxyts',
-        'https://ibb.co/PjYs6B2' 
+        'https://ibb.co/PjYs6B2',
+        'https://ibb.co/qmS79Rg',
+        'https://ibb.co/mGGQ0ns'
     ];
     var randomKamen = kamen[Math.floor(Math.random()*kamen.length)];
 
@@ -95,7 +103,8 @@ client.on ('message', message => {
         'https://ibb.co/zGdpZYT',
         'https://ibb.co/qsk1nWJ',
         'https://ibb.co/SXXgR2N',
-        'https://ibb.co/yRcfPcj'
+        'https://ibb.co/yRcfPcj',
+        'https://ibb.co/G72jffy'
     ];
     var randomStoil = stoil[Math.floor(Math.random()*stoil.length)];
 
@@ -129,7 +138,7 @@ client.on ('message', message => {
         'https://ibb.co/xSsKmMn',
         'https://ibb.co/Qdfq57z',
         'https://ibb.co/PDLqnJC',
-        'https://ibb.co/k9bHwQv',
+        'https://ibb.co/k9bHwQv'
     ];
     var randomIvo = ivo[Math.floor(Math.random()*ivo.length)];
 
