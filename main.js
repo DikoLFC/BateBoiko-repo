@@ -32,7 +32,9 @@ client.on ('message', message => {
         'https://ibb.co/zNkK7nD',
         'https://ibb.co/597WJTW',
         'https://ibb.co/3F3D5q1',
-        'https://ibb.co/C1xHpK0'  
+        'https://ibb.co/C1xHpK0',
+        'https://ibb.co/bHCxnfd',
+        'https://ibb.co/hBnq2wd'
     ];
     var randomRangel = rangel[Math.floor(Math.random()*rangel.length)];
 
@@ -61,7 +63,9 @@ client.on ('message', message => {
         'https://ibb.co/4j6N8Yv',
         'https://ibb.co/g9LrqCG',
         'https://ibb.co/bWt5jK2',
-        'https://ibb.co/1Lc3M9J'
+        'https://ibb.co/1Lc3M9J',
+        'https://ibb.co/TwpYqbg',
+        'https://ibb.co/RB720rY'
     ];
     var randomDido = dido[Math.floor(Math.random()*dido.length)];
 
@@ -71,7 +75,9 @@ client.on ('message', message => {
        'https://ibb.co/Xyk5sym',
        'https://ibb.co/jfSPcQK',
        'https://ibb.co/r6qcdtz',
-       'https://ibb.co/tzpRyHW'
+       'https://ibb.co/tzpRyHW',
+        'https://ibb.co/KWzNqmv',
+        'https://ibb.co/rFbZD6h'
     ];
     var randomNikolay = nikolay[Math.floor(Math.random()*nikolay.length)];
 
@@ -81,7 +87,9 @@ client.on ('message', message => {
         'https://ibb.co/s66b165',
         'https://ibb.co/02pxyts',
         'https://ibb.co/PjYs6B2',
-        'https://ibb.co/4p4QcgM' 
+        'https://ibb.co/4p4QcgM',
+        'https://ibb.co/mGGQ0ns',
+        'https://ibb.co/qmS79Rg'
     ];
     var randomKamen = kamen[Math.floor(Math.random()*kamen.length)];
 
@@ -89,7 +97,8 @@ client.on ('message', message => {
         'https://ibb.co/hHHYcYg',
         'https://ibb.co/zGdpZYT',
         'https://ibb.co/qsk1nWJ',
-        'https://ibb.co/SXXgR2N'
+        'https://ibb.co/SXXgR2N',
+        'https://ibb.co/G72jffy'
     ];
     var randomStoil = stoil[Math.floor(Math.random()*stoil.length)];
 
