@@ -34,7 +34,17 @@ client.on ('message', message => {
         'https://ibb.co/3F3D5q1',
         'https://ibb.co/C1xHpK0',
         'https://ibb.co/bHCxnfd',
-        'https://ibb.co/hBnq2wd'
+        'https://ibb.co/hBnq2wd',
+        'https://ibb.co/RQSFv6t',
+        'https://ibb.co/C58NVmK',
+        'https://ibb.co/JFDTHmM',
+        'https://ibb.co/QP3fN95',
+        'https://ibb.co/g45Ng73',
+        'https://ibb.co/P989xL9',
+        'https://ibb.co/ZL3HTb4',
+        'https://ibb.co/LSPwBh3',
+        'https://ibb.co/9cNLKsS',
+        'https://ibb.co/9GBfCXk'
     ];
     var randomRangel = rangel[Math.floor(Math.random()*rangel.length)];
 
@@ -65,7 +75,8 @@ client.on ('message', message => {
         'https://ibb.co/bWt5jK2',
         'https://ibb.co/1Lc3M9J',
         'https://ibb.co/TwpYqbg',
-        'https://ibb.co/RB720rY'
+        'https://ibb.co/RB720rY',
+        'https://ibb.co/rMwWvYm'
     ];
     var randomDido = dido[Math.floor(Math.random()*dido.length)];
 
@@ -77,7 +88,18 @@ client.on ('message', message => {
        'https://ibb.co/r6qcdtz',
        'https://ibb.co/tzpRyHW',
         'https://ibb.co/KWzNqmv',
-        'https://ibb.co/rFbZD6h'
+        'https://ibb.co/rFbZD6h',
+        'https://ibb.co/kxpR4Gc',
+        'https://ibb.co/TrqD3P8',
+        'https://ibb.co/Hh6TMFt',
+        'https://ibb.co/JBf2bKy',
+        'https://ibb.co/gvgYvSY',
+        'https://ibb.co/2F0bcy9',
+        'https://ibb.co/xS3y2WS',
+        'https://ibb.co/2YBkpTj',
+        'https://ibb.co/L6bzJnk',
+        'https://ibb.co/2kw1nd6',
+        'https://ibb.co/VQnLfpR'
     ];
     var randomNikolay = nikolay[Math.floor(Math.random()*nikolay.length)];
 
@@ -89,7 +111,8 @@ client.on ('message', message => {
         'https://ibb.co/PjYs6B2',
         'https://ibb.co/4p4QcgM',
         'https://ibb.co/mGGQ0ns',
-        'https://ibb.co/qmS79Rg'
+        'https://ibb.co/qmS79Rg',
+        'https://ibb.co/DfSrrZr'
     ];
     var randomKamen = kamen[Math.floor(Math.random()*kamen.length)];
 
@@ -109,7 +132,8 @@ client.on ('message', message => {
         'https://ibb.co/TYXb6vb',
         'https://ibb.co/qynnGmP',
         'https://ibb.co/mHv8WMG',
-        'https://ibb.co/DDQwtsP'
+        'https://ibb.co/DDQwtsP',
+        'https://ibb.co/N2jJgYd'
     ];
     var randomZaro = zaro[Math.floor(Math.random()*zaro.length)];
 
@@ -134,7 +158,9 @@ client.on ('message', message => {
         'https://ibb.co/m9z16Db',
         'https://ibb.co/1nCmttn',
         'https://ibb.co/7jNmWSN',
-        'https://ibb.co/wLb9GjN'
+        'https://ibb.co/wLb9GjN',
+        'https://ibb.co/vVQV5gY',
+        'https://ibb.co/6WB5hSq'
     ];
     var randomIvo = ivo[Math.floor(Math.random()*ivo.length)];
 
